@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="exe" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="module-output" name="Application" />
+      <element id="file-copy" path="D:/json-20201115.jar" />
+      <element id="file-copy" path="$PATH_TO_FX$/src.zip" />
+      <element id="file-copy" path="$PATH_TO_FX$/javafx-swt.jar" />
+      <element id="file-copy" path="$PATH_TO_FX$/javafx.web.jar" />
+      <element id="file-copy" path="$PATH_TO_FX$/javafx.base.jar" />
+      <element id="file-copy" path="$PATH_TO_FX$/javafx.fxml.jar" />
+      <element id="file-copy" path="$PATH_TO_FX$/javafx.media.jar" />
+      <element id="file-copy" path="$PATH_TO_FX$/javafx.swing.jar" />
+      <element id="file-copy" path="$PATH_TO_FX$/javafx.controls.jar" />
+      <element id="file-copy" path="$PATH_TO_FX$/javafx.graphics.jar" />
+    </root>
+  </artifact>
+</component>
